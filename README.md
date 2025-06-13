@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Alan 👋
 
-<!--
-**AlanKerry1/AlanKerry1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 17-year-old **backend developer** focused on **Node.js**  
+Also experienced with **Python, C# (Unity), and React**  
+I build **APIs, Telegram bots, websites, and payment integrations**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I Do
+
+- 🔧 Backend development (Node.js, Express, NestJS)
+- 💳 Payment integrations (YooKassa, Stripe, PayPal)
+- 🤖 Telegram bots (node-telegram-bot-api, aiogram)
+- 🔌 API integrations (OpenAI, Discord, CRM, etc.)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanKerry1&layout=compact&theme=tokyonight)
