@@ -26,3 +26,4 @@ I build **APIs, Telegram bots, websites, and payment integrations**
 ---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlanKerry1&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlanKerry1&repo=AlanKerry1)](https://github.com/anuraghazra/github-readme-stats)
