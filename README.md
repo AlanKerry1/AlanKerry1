@@ -15,4 +15,4 @@ I build **APIs, Telegram bots, websites, and payment integrations**
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanKerry1&layout=compact&theme=tokyonight)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlanKerry1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
