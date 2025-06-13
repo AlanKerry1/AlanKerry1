@@ -25,4 +25,19 @@ I build **APIs, Telegram bots, websites, and payment integrations**
 
 ---
 
+### 📫 Contact Me
+
+- Telegram: [@alan_kerry](https://t.me/alan_kerry)
+- Email: alankerry468@gmail.com
+
+---
+
+### 📚 Currently Learning
+
+- Improving English (reading docs & watching tutorials)
+- Learning React
+- Improving Python skills
+
+---
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlanKerry1&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
