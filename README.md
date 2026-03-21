@@ -1,9 +1,8 @@
 # Hi there, I'm Alan 👋
 
-I'm a 17-year-old **backend developer** focused on **Node.js**  
+I'm a 18-year-old **backend developer** focused on **Node.js**  
 Also experienced with **Python, C# (Unity), and React**  
 I build **APIs, Telegram bots, websites, and payment integrations**  
-Explore my website: https://alankerry.ru
 
 ---
 
@@ -36,8 +35,8 @@ Explore my website: https://alankerry.ru
 ### 📚 Currently Learning
 
 - Improving English (reading docs & watching tutorials)
-- Learning React
-- Improving Python skills
+- Learning Cybersecurity
+- Learning ML Engineering
 
 ---
 
