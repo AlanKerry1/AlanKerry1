@@ -17,11 +17,12 @@ I build **APIs, Telegram bots, websites, and payment integrations**
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Astrologer](https://github.com/AlanKerry1/Astrologer) | Telegram bot with OpenAI integration | Node.js, Nest.js, Telegram API, OpenAI |
-| [Online-Chat](https://github.com/AlanKerry1/Online-Chat) | Web app for online communication | Node.js, Nest.js, WebSockets, Socket.IO, PostgreSQL, Prisma, Docker |
-| [Blog](https://github.com/AlanKerry1/Blog) | Blog web app | Node.js, Nest.js, MySQL, React, Docker |
+| Project | Description |
+|--------|-------------|
+| [Auth-Service](https://github.com/AlanKerry1/Auth-Service) | Advanced auth microservice |
+| [Astrologer](https://github.com/AlanKerry1/Astrologer) | Telegram bot with OpenAI integration |
+| [Online-Chat](https://github.com/AlanKerry1/Online-Chat) | Web app for online communication |
+| [Blog](https://github.com/AlanKerry1/Blog) | Blog web app |
 
 ---
 
