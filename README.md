@@ -38,7 +38,3 @@ I build **APIs, Telegram bots, websites, and payment integrations**
 - Improving English (reading docs & watching tutorials)
 - Learning Cybersecurity
 - Learning ML Engineering
-
----
-
-[![Anurag's github stats](https://github-readme-stats-alpha-eosin-90.vercel.app/api?username=AlanKerry1&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
